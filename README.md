@@ -4,6 +4,8 @@
 **Diagnósticos de red simplificados**
 
 **WinMTR combina ping y traceroute en una herramienta poderosa. Monitoriza la pérdida de paquetes, la latencia y las rutas de red en tiempo real, sin necesidad de instalación.**
+ **Sitio Official**:https://winmtr.net/
+
 
 ![Screenshot](/PICTURES/imagen.jpg)
 
